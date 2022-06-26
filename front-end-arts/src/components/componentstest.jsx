@@ -2,7 +2,7 @@ import styled from 'styled-components'
 
 function Demo() {
   return (
-      <Title>Demo</Title>
+      <Title>Demo thinh sida</Title>
    
   );
 }
